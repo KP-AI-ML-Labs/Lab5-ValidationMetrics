@@ -1,7 +1,7 @@
 # Lab 5: Was Our Model Any Good? – Validation & Metrics
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/drive/1EoCXd1DWo2UsewpygW4Jnr4NP_dnd9VH?usp=sharing)
+https://github.com/KP-AI-ML-Labs/Lab5-ValidationMetrics/blob/main/g_Lab5_S.ipynb)
 
 ---
 
